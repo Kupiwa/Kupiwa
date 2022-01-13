@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Kupiwa
 - 👀 I’m interested in java programming.
 - 🌱 I’m currently a 2nd year student studying computer science at the University of KwaZulu-Natal, South Africa.
-- 💞️ I’m looking to collaborate on anything that uses java more especially apps.
+- 💞️ I’m looking to collaborate on anything java, more especially apps.
 - 📫 How to reach me: LinkedIn - kupiwa nangati
